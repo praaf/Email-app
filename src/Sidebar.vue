@@ -1,11 +1,11 @@
 <template>
     <aside class="sm-side">
         <div class="user-head">
-            <img src="src/assets/images/profile.jpg">
+            <img style="max-width:30%;  transform: rotate(270deg);" src="src/assets/images/profile.jpg">
 
             <div class="user-name">
-                <h5>Bo Andersen</h5>
-                <span class="email-address">info@codingexplained.com</span>
+                <h5>Praful</h5>
+                <span class="email-address">Praful@gmail.com</span>
             </div>
         </div>
 
